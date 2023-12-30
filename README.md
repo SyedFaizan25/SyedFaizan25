@@ -1,4 +1,4 @@
-![logo](https://github.com/SyedFaizan25/SyedFaizan25/blob/main/Profile%20Banner.png)
+![logo](https://github.com/SyedFaizan25/SyedFaizan25/blob/main/Profile%20Banner.png
 <h1 align="center">Hi 👋, I'm Faizan Muslim</h1>
 <h3 align="center">A passionate Professional Flutter Developer.</h3>
 
@@ -36,3 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedfaizan25&show_icons=true&locale=en" alt="syedfaizan25" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedfaizan25&" alt="syedfaizan25" /></p>
+
