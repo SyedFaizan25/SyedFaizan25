@@ -1,4 +1,4 @@
-![logo](https://github.com/SyedFaizan25/SyedFaizan25/blob/main/Profile%20Banner.png
+![logo](https://github.com/SyedFaizan25/SyedFaizan25/blob/main/Profile%20Banner.png)
 <h1 align="center">Hi 👋, I'm Faizan Muslim</h1>
 <h3 align="center">A passionate Professional Flutter Developer.</h3>
 
